@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sandali<br>👀 I have worked on Web applications, Mobile applications, AI/ML<br>✨ I have learned Java, C# , ASP .NET framwork , JS , MERN stack , Web API<br>🌱 I’m currently improving on Devops, Flutter and Dart , Next JS
+👋 Hi, I’m Sandali<br>👀 I have worked on Web applications, Mobile applications, AI/ML projects<br>✨ I have learned Java, C# , ASP .NET framwork , JS , MERN stack , Web API<br>🌱 I’m currently improving on Devops, Flutter and Dart , Next JS
 
 
 ## 🌐 Socials:
